@@ -46,7 +46,7 @@ The project uses an input image stored in the repository:
 
 ```
 
-sample.jpg
+![Sample image](sample.jpg)
 
 ```
 
