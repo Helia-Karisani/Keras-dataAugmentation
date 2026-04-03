@@ -44,11 +44,11 @@ The notebook follows these main steps:
 
 The project uses an input image stored in the repository:
 
-```
+
 
 ![Sample image](sample.jpg)
 
-```
+
 
 This image is used as the base input to generate multiple augmented versions.
 
