@@ -86,4 +86,3 @@ README.md                     # project documentation
 ##  Summary
 
 This project shows how to use Keras to generate multiple variations of a single image, helping models learn more effectively from limited data by simulating real-world diversity.
-```
